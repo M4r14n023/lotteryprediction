@@ -1,0 +1,9 @@
+LotteryPrediction/
+├── data/                # Carpeta para almacenar los datos de los sorteos.
+├── src/                 # Código fuente.
+│   ├── main.py          # Archivo principal para ejecutar el proyecto.
+│   ├── data_processing.py  # Módulo para procesar datos.
+│   ├── prediction.py       # Módulo para modelos estadísticos.
+│   ├── visualization.py    # Módulo para gráficos y análisis visual.
+├── requirements.txt     # Dependencias del proyecto.
+└── README.md            # Descripción del proyecto.
